@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('img/portada.jpg') no-repeat;
+    background-size: cover;
+    font-family: cursive;
+    margin: auto
+}
+
+.box {
+    width: 500px;
+    background: rgba(0, 0, 0, 0);
+    margin: auto;
+    margin-top: 4%;
+    margin: 30px;
+    color: black;
+}
+.box-img{
+    border-radius: 40%;
+    margin: auto;
+}
+ .box h1{
+     color: cornsilk;
+     font-size: 30px;
+     letter-spacing: 4px;
+     font-weight: 100;
+     margin: 10px 0
+ }
+ .box h2{
+
+     color: blanchedalmond;
+     font-size: 20px;
+     letter-spacing: 3px;
+     margin-bottom: 20px;
+ }
+ .box h3{
+     color: rgb(182, 74, 74);
+     font-size: 15px;
+     padding-left: 20px; 
+ }
+ .box p{
+     color: blanchedalmond;
+     font-size: 15px;
+     }
+ .box hr{
+     margin-right: 50%;
+     color: darkgoldenrod;
+ }
+
+ }
+ .perfil{
+     color: black;
+     content: auto;
+ }
